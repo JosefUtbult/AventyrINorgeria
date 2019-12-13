@@ -1,0 +1,8 @@
+# Latexrelaterat
+*.aux
+*.lof
+*.log
+*.log
+*.lot
+*.out
+*.toc
