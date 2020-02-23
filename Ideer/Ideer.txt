@@ -30,10 +30,16 @@ Uppdrag: Bestig Tramsøs väggar
 		Hon är väldigt ledsen över det hon var tvungen att göra
 
 Beholderkult
-En kult i katakomberna under en stad
-Tillber en gigantisk beholder som lever djupt i kärnan av katakomberna
-Tatuerat ett öga i pannan
-Hordar magiska artifakter till beholdern
-Kultister försöker stjäla magiska föremål från äventyrarna
-Speciellt magikers arcane fokus
-Vissa invånare i staden har lite information om kulten
+	En kult i katakomberna under en stad
+	Tillber en gigantisk beholder som lever djupt i kärnan av katakomberna
+	Tatuerat ett öga i pannan
+	Hordar magiska artifakter till beholdern
+	Kultister försöker stjäla magiska föremål från äventyrarna
+	Speciellt magikers arcane fokus
+	Vissa invånare i staden har lite information om kulten
+
+Frita Fritzer
+	Fritzer är en maffiaboss av hög position.
+	Han sitter fängslad i samma fängelse som äventyrarna satt i
+	Han ska brytas ut
+	

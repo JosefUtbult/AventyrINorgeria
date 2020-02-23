@@ -1,16 +1,9 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% LaTeX book template                           %%
-%% Author:  Amber Jain (http://amberj.devio.us/) %%
-%% License: ISC license                          %%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\documentclass[a4paper,11pt]{book}
+\documentclass[a4paper,11pt]{article}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage{lmodern}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Source: http://en.wikibooks.org/wiki/LaTeX/Hyperlinks %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{csquotes}
+
 \usepackage{hyperref}
 \usepackage{graphicx}
 \usepackage[english]{babel}
@@ -18,41 +11,35 @@
 \usepackage{graphicx}
 \graphicspath{ {../Images/} }
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Chapter quote at the start of chapter        %
-% Source: http://tex.stackexchange.com/a/53380 %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\makeatletter
-\renewcommand{\@chapapp}{}% Not necessary...
-\newenvironment{chapquote}[2][2em]
-  {\setlength{\@tempdima}{#1}%
-   \def\chapquote@author{#2}%
-   \parshape 1 \@tempdima \dimexpr\textwidth-2\@tempdima\relax%
-   \itshape}
-  {\par\normalfont\hfill--\ \chapquote@author\hspace*{\@tempdima}\par\bigskip}
-\makeatother
+% Defines how the section reference looks
+\newcommand{\sectiondescribe}[1]{(Sektion {#1})}
 
 \title{\Huge \textbf{Äventyr i Norgeria}}
 \author{\textsc{Josef Utbult}}
 
-
 \begin{document}
-
-\frontmatter
+\pagenumbering{roman}
 \maketitle
+\newpage
 \tableofcontents
-% \listoffigures
-% \listoftables
+\newpage
+\pagenumbering{arabic}
 %
-\mainmatter
-%
-\input{../Bakgrund/Inledning.tex}
+\section{Bakgrund}
 \input{../Bakgrund/Bakgrund.tex}
+\newpage
 %
-\input{../Platser/Haggesund.tex}
-\input{../Platser/TorkelDenTokigaTrollkarlen.tex}
-\input{../Platser/Tramso.tex}
+\section{Platser}
+\input{../Platser/Platser.tex}
+\newpage
 %
+\section{Uppdrag}
+\input{../Uppdrag/Uppdrag.tex}
+%
+\section{Föremål}
+\input{../Items/Items.tex}
+%
+\newpage
 \input{../Misc/Biblografi.tex}
 % \begin{chapquote}{Author's name, \textit{Source of this quote}}
 % ``This is a quote and I don't know who said this.''
