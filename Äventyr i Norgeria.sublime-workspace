@@ -136,73 +136,22 @@
 	"buffers":
 	[
 		{
-			"file": "Platser/Haggesund.tex",
-			"settings":
-			{
-				"buffer_size": 2613,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Bakgrund/FangarPaFriFot.tex",
-			"settings":
-			{
-				"buffer_size": 376,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Bakgrund/Bakgrund.tex",
-			"settings":
-			{
-				"buffer_size": 108,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Bakgrund/GudarOchMagi.tex",
-			"settings":
-			{
-				"buffer_size": 1425,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Ideer/Ideer.txt",
-			"settings":
-			{
-				"buffer_size": 1678,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Platser/Mehecger.tex",
-			"settings":
-			{
-				"buffer_size": 42,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Raser/Alver.tex",
-			"settings":
-			{
-				"buffer_size": 1920,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "Äventyr i Norgeria.tex",
 			"settings":
 			{
-				"buffer_size": 1007,
+				"buffer_size": 952,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Idéer\n\nJuveljägare Judas\n\nLådan med råttor\n\tDetta är en förbannat trälåda\n\tDenna låda har en förmåga att materialisera råttor som klättrar ut ur den\n\tDetta händer på en oregelbunden basis, men inte när någon kollar i lådan\n\tLådan är tom förutom lite råttsvans och hö\n\nBror Björn\n\tÄventyrarna springer in i en Björn som tuggar på nått\n\tDet är en död ung man\n\tSenare träffar de på em annan ung man som agerar guide\n\tDet är den döde mannens bror, som inte har någon aning\n\nVapenhandlare\n\tTvå städer i krig\n\ten medlare håller på att få fred\n\tEn rik vapenhandlare vill att denne lönnmördas då fred inte är bra för affärerna\n\nUppdrag: Bestig Tramsøs väggar\n\tEn alvsk politisk aktivist vill ta sig in i Tramsø för att bidra till motståndsgruppen mot Rådet\n\tHan menar att det enda sättet att ta sig in i staden obemärkt är att klättra upp för muren, och vill ha eskort för detta om något går fel\n\tHan, en vän och hans dotter ska med\n\tHan bidrar med klättringsutrustning\n\tDottern förråder dem\n\t\tHon vill ha tillbaka sitt gamla liv och skyller sin far för omständigheterna\n\t\tHon har tjallat för Rådet i utbyte mot sin status och familjehem tillbaka\n\t\tHon är väldigt ledsen över det hon var tvungen att göra\n\nBeholderkult\n\tEn kult i katakomberna under en stad\n\tTillber en gigantisk beholder som lever djupt i kärnan av katakomberna\n\tTatuerat ett öga i pannan\n\tHordar magiska artifakter till beholdern\n\tKultister försöker stjäla magiska föremål från äventyrarna\n\tSpeciellt magikers arcane fokus\n\tVissa invånare i staden har lite information om kulten\n\nFrita Fritzer\n\tFritzer är en maffiaboss av hög position.\n\tHan sitter fängslad i samma fängelse som äventyrarna satt i\n\tHan ska brytas ut\n\t\n\nInfidelen Icarus\n\tIcarus är en vitalv och en warlock\n\tHan ser på människor, dvärgar och halvmän med hat, då han menar att dessa har infekterat världen och är anledningen till alvenas fall\n\tHan har en plan att skapa en krigare, en fleshgolem av människobarn, för att utrota dessa och låta alverna återta världen som deras\n\tHan har sammlat barn från många ställen, med hjälp av hans undersåtar som söver dem för att han senare ska kunna hjärntvätta dem\n\tIcarus har mycket transmutativa krafter. Han har horn som en bock, och har förmågan att transmutera sig själv till träd, och ett träd till honom (praktiskt taget teleportation)\n\tIcarus satt en gång i tiden i Tramsös Råd, men har blivit utkastad pga hans radikala ideer. Han planerar att inta Tramsö igen, och störta rådet\n\t",
+			"file": "Ideer/Ideer.txt",
+			"file_size": 1765,
+			"file_write_time": 132279264603040615,
+			"settings":
+			{
+				"buffer_size": 2455,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -244,12 +193,12 @@
 		"selected_items":
 		[
 			[
-				"latex",
-				"Set Syntax: LaTeX"
-			],
-			[
 				"install",
 				"Package Control: Install Package"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
 			],
 			[
 				"enu",
@@ -376,15 +325,20 @@
 	},
 	"expanded_folders":
 	[
-		"/home/josef/Mega/Dokument/Övriga dokument/DnD/Äventyr i Norgeria",
-		"/home/josef/Mega/Dokument/Övriga dokument/DnD/Äventyr i Norgeria/Bakgrund",
-		"/home/josef/Mega/Dokument/Övriga dokument/DnD/Äventyr i Norgeria/Ideer",
-		"/home/josef/Mega/Dokument/Övriga dokument/DnD/Äventyr i Norgeria/Misc",
-		"/home/josef/Mega/Dokument/Övriga dokument/DnD/Äventyr i Norgeria/Platser",
-		"/home/josef/Mega/Dokument/Övriga dokument/DnD/Äventyr i Norgeria/Raser"
+		"/home/josef/Downloads/AventyrINorgeria",
+		"/home/josef/Downloads/AventyrINorgeria/Ideer",
+		"/home/josef/Downloads/AventyrINorgeria/Raser"
 	],
 	"file_history":
 	[
+		"/home/josef/Downloads/AventyrINorgeria/Raser/Alver.tex",
+		"/home/josef/Downloads/AventyrINorgeria/Äventyr i Norgeria.tex",
+		"/home/josef/Downloads/AventyrINorgeria/Platser/Mehecger.tex",
+		"/home/josef/Downloads/AventyrINorgeria/Ideer/Ideer.txt",
+		"/home/josef/Downloads/AventyrINorgeria/Bakgrund/GudarOchMagi.tex",
+		"/home/josef/Downloads/AventyrINorgeria/Platser/Haggesund.tex",
+		"/home/josef/Downloads/AventyrINorgeria/Bakgrund/FangarPaFriFot.tex",
+		"/home/josef/Downloads/AventyrINorgeria/Bakgrund/Bakgrund.tex",
 		"/home/josef/Mega/Dokument/Övriga dokument/DnD/Äventyr i Norgeria/Bakgrund/Inledning.tex",
 		"/home/josef/Mega/Dokument/Övriga dokument/DnD/Äventyr i Norgeria/Bakgrund/GudarOchMagi.tex",
 		"/home/josef/Mega/Dokument/Övriga dokument/DnD/Äventyr i Norgeria/Platser/KatakomberUnderOstlo.tex",
@@ -452,7 +406,7 @@
 	],
 	"find":
 	{
-		"height": 38.0
+		"height": 26.0
 	},
 	"find_in_files":
 	{
@@ -505,136 +459,52 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "Platser/Haggesund.tex",
+					"file": "Äventyr i Norgeria.tex",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2613,
+						"buffer_size": 952,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								36,
-								36
+								710,
+								710
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "Bakgrund/FangarPaFriFot.tex",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 376,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								207,
-								207
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "Bakgrund/Bakgrund.tex",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 108,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								108,
-								108
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "Bakgrund/GudarOchMagi.tex",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1425,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								507,
-								507
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
 					"file": "Ideer/Ideer.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1678,
+						"buffer_size": 2455,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1678,
-								1678
+								2455,
+								2455
 							]
 						],
 						"settings":
@@ -643,94 +513,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 18.0,
+						"translation.y": 153.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "Platser/Mehecger.tex",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 42,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								42,
-								42
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "Raser/Alver.tex",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1920,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								21,
-								21
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "Äventyr i Norgeria.tex",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1007,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								657,
-								657
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 45.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
